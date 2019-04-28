@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
+
 namespace TimerEvents
 {
     /// <summary>
@@ -25,15 +26,14 @@ namespace TimerEvents
 
         private DispatcherTimer _timer;
 
+
         public MainWindow()
         {
 
             InitializeComponent();
+            this.myProgressBar.Loaded += new RoutedEventHandler(MyProgressBar_Loaded);
 
         }
-          
-
-
 
         private void MyProgressBar_Loaded(object sender, RoutedEventArgs e)
         {
@@ -54,7 +54,5 @@ namespace TimerEvents
         }
 
     }
-
-
    
 }

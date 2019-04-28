@@ -5,15 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TimerEvents"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Background="#FF0E0C0C">
-    <Grid HorizontalAlignment="Left" Width="792">
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="43*"/>
-            <ColumnDefinition Width="45*"/>
-        </Grid.ColumnDefinitions>
-
-        <ProgressBar x:Name="myProgressBar" HorizontalAlignment="Left" Height="99" Margin="57,141,0,0" VerticalAlignment="Top" Width="649" ValueChanged="MyProgressBar_ValueChanged" Grid.ColumnSpan="2" Loaded="MyProgressBar_Loaded"/>
-
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ProgressBar HorizontalAlignment="Left" Height="130" Margin="93,128,0,0" VerticalAlignment="Top" Width="639" Name="myProgressBar" Loaded="MyProgressBar_Loaded"/>
 
     </Grid>
 </Window>

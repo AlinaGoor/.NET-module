@@ -1,0 +1,7 @@
+C:\Users\sfarkas\Desktop\gut\.NET-module\SeconSIweek\SeekAndArchive\bin\Debug\SeekAndArchive.exe.config
+C:\Users\sfarkas\Desktop\gut\.NET-module\SeconSIweek\SeekAndArchive\bin\Debug\SeekAndArchive.exe
+C:\Users\sfarkas\Desktop\gut\.NET-module\SeconSIweek\SeekAndArchive\bin\Debug\SeekAndArchive.pdb
+C:\Users\sfarkas\Desktop\gut\.NET-module\SeconSIweek\SeekAndArchive\obj\Debug\SeekAndArchive.csprojAssemblyReference.cache
+C:\Users\sfarkas\Desktop\gut\.NET-module\SeconSIweek\SeekAndArchive\obj\Debug\SeekAndArchive.csproj.CoreCompileInputs.cache
+C:\Users\sfarkas\Desktop\gut\.NET-module\SeconSIweek\SeekAndArchive\obj\Debug\SeekAndArchive.exe
+C:\Users\sfarkas\Desktop\gut\.NET-module\SeconSIweek\SeekAndArchive\obj\Debug\SeekAndArchive.pdb
